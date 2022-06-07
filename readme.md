@@ -1,6 +1,6 @@
-#two account in one pc
+# two account in one pc
 
-:cry   :left 
+ 
 
 🌿⛔⛔🔼🔼
 
