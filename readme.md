@@ -12,7 +12,6 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51wc7L9FaoL._SX351_BO1,204,203,200_.jpg"   width="400"/>
 
-https://upload.wikimedia.org/wikipedia/commons/8/8f/Scarlett_Johansson_%28cropped%29.jpg
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Scarlett_Johansson_%28cropped%29.jpg"
    width="400"/>
