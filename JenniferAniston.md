@@ -18,3 +18,6 @@
 
 ### Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and…
 <img src="https://i.pinimg.com/564x/de/8d/cd/de8dcd1c13dbf9ea977acac8a58e4072.jpg"   width="400"/>
+
+## vanessa ᗢ | JUNGLE CRUISE on Twitter  💖🤞👗💎
+<img src="https://i.pinimg.com/564x/21/55/e5/2155e5c3fe5b2f2f4a1e113b0e4ba575.jpg"   width="400"/>
