@@ -14,5 +14,5 @@
 
 https://upload.wikimedia.org/wikipedia/commons/8/8f/Scarlett_Johansson_%28cropped%29.jpg
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Scarlett_Johansson_%28cropped%29.jpg
-"   width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Scarlett_Johansson_%28cropped%29.jpg"
+   width="400"/>
